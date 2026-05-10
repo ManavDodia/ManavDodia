@@ -1,136 +1,143 @@
-<h1 align="center">Hi, I'm Manav Dodia</h1>
-<h3 align="center">AI Engineer | Computer Vision | Edge AI | LLM Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manavdodia22/">
-    <img src="https://img.shields.io/badge/LinkedIn-Manav%20Dodia-blue?style=flat\&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:manavdodia21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manavdodia21%40gmail.com-red?style=flat\&logo=gmail" alt="Email" />
-  </a>
-</p>
+# Hey, I'm Manav Dodia 👋
 
-\---
+**AI Engineer · Computer Vision · Edge AI · LLM Applications**
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavdodia22/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavdodia21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManavDodia)
 
-I am an AI Engineer focused on building practical AI systems that move beyond notebooks and actually run in production-like environments.
+</div>
 
-* Currently working as a **Junior AI Engineer at EAlphabits**
-* Building real-time computer vision pipelines using **YOLO, NVIDIA DeepStream, TensorRT, and Jetson edge devices**
-* Experienced in training, optimizing, and deploying deep learning models with **PyTorch** and **TensorFlow**
-* Working on **LLM applications, document processing pipelines, multi-agent workflows, and retrieval-based systems**
-* M.Tech in **Data Science** from Nirma University
+---
 
-\---
+## 🧑‍💻 About Me
 
-## Core Focus Areas
+I build AI systems that go beyond notebooks — real-time inference pipelines, edge-deployed CV models, and LLM-powered workflows that actually run in production.
 
-* Real-time computer vision
-* Edge AI deployment
-* Model optimization and TensorRT conversion
-* Multi-stream inference using NVIDIA DeepStream
-* LLM-powered document understanding
-* AI agents and workflow automation
-* Data extraction, classification, and decision-support systems
+- 🔭 Currently working as a **Junior AI Engineer @ EAlphabits**, building real-time computer vision systems on NVIDIA Jetson edge hardware
+- 🎓 **M.Tech in Data Science** from Nirma University, Ahmedabad
+- 🚀 I specialize in the full cycle — from **model training → optimization → edge deployment**
+- 🧠 Exploring **LLM agents, RAG pipelines, and multi-agent document workflows**
+- 📍 Based in Ahmedabad, India
 
-\---
+---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white" />
-</p>
+### AI / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-### AI / ML / Deep Learning
+### Edge AI & Deployment
+![NVIDIA DeepStream](https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-</p>
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
+![Label Studio](https://img.shields.io/badge/Label%20Studio-FF6900?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Edge AI / Deployment
+### Databases & Vector Search
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black" />
-</p>
+---
 
-### Frameworks and Tools
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black" />
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white" />
-</p>
+### 🏥 [Health Insurance Claims Processing System](https://github.com/ManavDodia/Health-Insurance-Claims-Processing-System)
+> Modular, explainable claims processing MVP with real document upload, LLM-based classification, multi-agent claim review, fraud detection, policy checks, FastAPI backend, and Streamlit UI.
 
-### Databases / Vector Search
+`Python` `FastAPI` `Streamlit` `LLMs` `Multi-Agent` `PDF Processing`
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-</p>
+---
 
-\---
+### 📋 [FormFiller](https://github.com/ManavDodia/formfiller)
+> End-to-end form schema extractor using YOLO-based layout detection and LLM assistance to generate structured JSON output from form PDFs.
 
-## Featured Projects
+`Python` `YOLO` `LLMs` `OCR` `PDF Processing`
 
-|Project|Description|Stack|
-|-|-|-|
-|[Health Insurance Claims Processing System](https://github.com/ManavDodia/Health-Insurance-Claims-Processing-System)|Modular, explainable health insurance claims processing MVP with real document upload, LLM-based classification and extraction, multi-agent claim review, fraud detection, policy checks, FastAPI backend, and Streamlit UI.|Python, FastAPI, Streamlit, LLMs, Ollama/OpenAI-compatible APIs|
-|[FormFiller](https://github.com/ManavDodia/formfiller)|End-to-end form schema extractor that uses YOLO-based layout detection and LLM support to generate structured JSON output from form PDFs.|Python, YOLO, LLMs, OCR, PDF processing|
-|[Financial Document Analyzer](https://github.com/ManavDodia/financial-document-analyzer-debug)|AI-powered financial document analysis system for corporate reports and financial statements, including analysis agents for recommendations, risks, and market insights.|Python, AI Agents, PDF Processing|
-|LLM-Based Mental Health Chatbot|Fine-tuned TinyLlama-1.1B Chat using LoRA and 4-bit quantization, with prompt design, context-window handling, Streamlit UI, and semantic evaluation.|TinyLlama, LoRA, Streamlit, Hugging Face|
-|Used Car Price Prediction|ANN-based price prediction workflow after benchmarking multiple regression models, achieving strong validation accuracy.|Python, ANN, ML, Data Analysis|
+---
 
-\---
+### 📊 [Financial Document Analyzer](https://github.com/ManavDodia/financial-document-analyzer-debug)
+> AI-powered system for analyzing corporate reports and financial statements, with agents for recommendations, risk assessment, and market insights.
 
-## Resume Highlights
+`Python` `AI Agents` `PDF Processing` `LLMs`
 
-* Built a real-time **hand-raise detection pipeline** using YOLO-Pose and NVIDIA DeepStream, processing up to 40 students per frame on edge hardware.
-* Trained and deployed a custom **YOLOv8 PPE detection model** with Roboflow dataset versioning, augmentation, and class balancing.
-* Converted PyTorch models into **TensorRT engines** and integrated them into DeepStream for low-latency edge inference.
-* Optimized multi-model computer vision workflows on NVIDIA Jetson with batching, tracking, and real-time event generation.
-* Built LLM-based applications involving fine-tuning, prompt design, context management, and Streamlit deployment.
+---
 
-\---
+### 🧠 LLM-Based Mental Health Chatbot
+> Fine-tuned TinyLlama-1.1B Chat with LoRA + 4-bit quantization. Designed system prompts, multi-turn context management, and a Streamlit UI. Achieved BERTScore of **0.8369**.
 
-## GitHub Stats
+`TinyLlama` `LoRA` `QLoRA` `Streamlit` `Hugging Face`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManavDodia\&show\_icons=true\&theme=tokyonight\&hide\_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavDodia\&layout=compact\&theme=tokyonight\&hide\_border=true" height="165" />
-</p>
+---
 
-\---
+### 🚗 Used Car Price Prediction
+> Benchmarked multiple regression algorithms and selected an ANN that achieved **90% prediction accuracy** on validation data, integrated into a pricing workflow.
 
-## Current Direction
+`Python` `ANN` `Scikit-learn` `Data Analysis`
 
-I am focused on building AI systems that are reliable, optimized, and deployable:
+---
 
-* Real-time CV on edge GPUs
-* TensorRT and DeepStream optimization
-* LLM-based document automation
-* AI agents for structured decision workflows
-* Production-ready ML pipelines
+## 💼 Work Highlights
 
-\---
+```
+🎯  Hand-raise detection pipeline  →  YOLO-Pose + DeepStream, 40 students/frame, 90% mAP
+🦺  PPE detection model           →  YOLOv8 + Roboflow pipeline, 87% mAP
+⚡  PyTorch → TensorRT            →  Low-latency edge inference, reduced GPU memory footprint
+🖥️  Multi-stream CV on Jetson     →  Batched streams, tracker integration, real-time events
+💬  LLM applications              →  Fine-tuning, RAG, multi-agent workflows, prompt design
+```
 
-## Connect
+---
 
-* LinkedIn: [linkedin.com/in/manavdodia22](https://www.linkedin.com/in/manavdodia22/)
-* GitHub: [github.com/ManavDodia](https://github.com/ManavDodia)
-* Email: [manavdodia21@gmail.com](mailto:manavdodia21@gmail.com)
+## 📈 GitHub Stats
 
+<div align="center">
+
+![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManavDodia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavDodia&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| M.Tech – Data Science | Nirma University, Ahmedabad | 2023 – 2025 |
+| B.E – Computer Engineering | Gujarat Technological University | 2018 – 2022 |
+
+**Certifications:** Google Data Analytics Professional Certificate · Python for Everybody (U. Michigan) · Data Science Training (Internshala)
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting conversations about edge AI, computer vision, or LLM-powered systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavdodia22/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavdodia21@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManavDodia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
