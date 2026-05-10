@@ -2,9 +2,6 @@
 <h3 align="center">AI Engineer | Computer Vision | Edge AI | LLM Applications</h3>
 
 <p align="center">
-  <a href="https://github.com/ManavDodia">
-    <img src="https://komarev.com/ghpvc/?username=ManavDodia\&label=Profile%20Views\&color=0e75b6\&style=flat" alt="profile views" />
-  </a>
   <a href="https://www.linkedin.com/in/manavdodia22/">
     <img src="https://img.shields.io/badge/LinkedIn-Manav%20Dodia-blue?style=flat\&logo=linkedin" alt="LinkedIn" />
   </a>
